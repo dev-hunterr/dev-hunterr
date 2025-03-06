@@ -1,10 +1,6 @@
-<div align="center">
-	<h1>Favour (Emeka) Ogbanu <img src="https://img.shields.io/badge/Dev-Hunter-navy"> <h1/>
-	<h2> Fullstack Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <h2/> 
-	  
-</div>
 
-<br/>
+<h1 align="center">Favour (Emeka) Ogbanu <img src="https://img.shields.io/badge/Dev-Hunter-navy"> <h1/>
+<h2 align="center"> Fullstack Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <h2/> 
  
 
 
